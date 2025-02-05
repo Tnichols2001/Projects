@@ -10,3 +10,5 @@ let’s agree to store the bit data from left-to-right. Note that you should be 
 program at a later time (e.g., during Cyber Storm) to store the bit data from right-to-left.
 
 Tech_directory_scraper:Dose exactly that i scrapes emails and names of all Louisiana Tech Staff
+
+ChatTimingClient:Write a Python program that can extract a covert message from the delays in between characters of a message transmitted by a chat server.
